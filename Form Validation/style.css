@@ -15,7 +15,7 @@
 }
 
 .form-title{
-    color:rgb(217, 13, 180);
+    color:rgb(0,255,0);
     margin-bottom: 20px;
     font-size:xx-large;
 }
@@ -43,7 +43,7 @@
 
 }
 .inner-form-container>label{
-    color:rgb(217, 13, 180);
+    color:rgb(0,255,0);
     font-weight:500;
     font-size: large;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
@@ -51,9 +51,9 @@
 }
 
 .inner-form-container>input{
-    padding:8px;
+    padding:10px;
     outline: none;
-    border:  2px solid rgb(217, 13, 180);
+    border:  2px solid rgb(0,255,0);
     border-radius:0.5rem;
 
 }
@@ -62,11 +62,11 @@
     color:white;
     font-weight: bold;
     font-size: large;
-    padding:8px;
+    padding:10px;
     outline: none;
     border:none;
     border-radius:0.5rem;
-    background: rgb(217, 13, 180);
+    background: rgb(0,255,0);
     margin-top: 10px;
     cursor: pointer;
 
